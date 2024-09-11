@@ -105,8 +105,8 @@ form:not(.passwordbg) {
 }
 #eye:checked~.passwordbg {
     background-color: #fff;
-    transition: 0.5s all ease-out;
-    animation: bgchange 0.5s ease-out forwards;
+    transition: 0.3s all ease-out;
+    animation: bgchange 0.3s ease-out forwards;
 }
 
 @keyframes bgchange {
